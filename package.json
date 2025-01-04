@@ -1,0 +1,12 @@
+{
+  "name": "@eth-tweaks/hardhat-bsc-environment",
+  "version": "0.1.0",
+  "description": "Plugin for deploying basic bsc contracts into the test environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
