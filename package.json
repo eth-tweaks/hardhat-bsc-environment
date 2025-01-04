@@ -6,7 +6,26 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "hardhat",
+    "pancake",
+    "bsc",
+    "plugin"
+  ],
+  "author": "todesstille",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eth-tweaks/hardhat-bsc-environment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eth-tweaks/hardhat-bsc-environment/issues"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.17"
+  },
+  "peerDependencies": {
+    "hardhat": "^2.17.0"
+  }
 }
