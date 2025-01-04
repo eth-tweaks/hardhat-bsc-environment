@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "description": "Plugin for deploying basic bsc contracts into the test environment",
   "main": "index.js",
+  "files": [
+    "index.js",
+    "pancake.js"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -23,7 +27,8 @@
   },
   "devDependencies": {
     "@nomicfoundation/hardhat-toolbox": "^5.0.0",
-    "hardhat": "^2.22.17"
+    "hardhat": "^2.22.17",
+    "@openzeppelin/contracts": "4.9.2"
   },
   "peerDependencies": {
     "hardhat": "^2.17.0"

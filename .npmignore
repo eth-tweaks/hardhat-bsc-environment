@@ -1,0 +1,4 @@
+test/
+contracts/
+hardhat.config.js
+package-lock.json
