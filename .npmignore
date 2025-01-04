@@ -1,4 +1,6 @@
-test/
 contracts/
+ignition/
+test/
+.gitignore
 hardhat.config.js
 package-lock.json
